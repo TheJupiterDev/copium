@@ -1,2 +1,2 @@
-# copium
+# Copium
 A performance based modpack.
